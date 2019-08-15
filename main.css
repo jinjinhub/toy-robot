@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.game__board{
+	color: #00FF00;
+}
+
+.game__command__form input{
+	background-color: black;
+	color: white;
+}
