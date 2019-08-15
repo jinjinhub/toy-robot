@@ -8,7 +8,7 @@ Command available:
   - X - Represent coordinate-x of robot, [ 0-4 ] as the table only consist of 5 unit in x-axis
   - Y - Represent coordinate-y of robot, [ 0-4 ] as the table only consist of 5 unit in y-axis
   - F - Represent robot facing direction [ NORTH / EAST / SOUTH / WEST ]
-  **eg. PLACE 1,4,WEST
+  - eg. PLACE 1,4,WEST
   
 2) MOVE
   - Move the robot 1 step forward to it's facing direction
